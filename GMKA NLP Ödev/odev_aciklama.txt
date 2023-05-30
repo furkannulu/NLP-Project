@@ -1,0 +1,14 @@
+nlp_odev.py dosyası içerisinde bulunan :
+
+1) ### ... ### => açıklamalarına yönelik olarak bir alt satırından itibaren gerekli ifadeleri doğru bir şekilde yazınız. 
+
+Örneğin : 
+
+### veri temizlemesi için örnek veri kümesi oluşturun ### 
+    df_1 = pd.read_csv("data/nlp.csv",index_col=0)   
+
+2) ### tanımlanan fonksiyonların içeriğini doldurunuz ### => fonksiyonlar içerisinde "pass" ifadeli fonksiyonlar eksiktir. Bu fonksiyonlar doğru bir şekilde çalışabilir olmalıdır. 
+
+
+Verilen eksiklikleri doğru bir şekilde tanımladığınız takdirde nlp_odev.py dosyasını çalıştırdığınızda hatasız sonucunuzu görebileceksiniz.
+
